@@ -1,0 +1,23 @@
+.container{
+    height: 7%;
+    display: flex;
+    align-items: center;
+    background-color : black;
+    color: white;
+    font-weight: 600;
+}
+.name-container{
+    width: 70%;
+    margin-left: 1%;
+    align-items: center;
+}
+.home-container{
+    width: 15%;
+    align-items: center;
+    text-align: center;
+}
+.about-container{
+    width: 15%;
+    align-items: center;
+    text-align: center;
+}
