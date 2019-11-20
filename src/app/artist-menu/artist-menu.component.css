@@ -1,0 +1,12 @@
+.container{
+    width: 40%;
+    height: 100%;
+    background-color :white;
+    color: black;
+    font-weight: 600;
+    position: absolute; 
+}
+.search-input{
+    margin-left: 5%;
+    width: 100%;
+}

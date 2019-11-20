@@ -12,12 +12,20 @@ import { MatRadioModule } from '@angular/material/radio';
 import { MatCardModule } from '@angular/material/card';
 import { ReactiveFormsModule } from '@angular/forms';
 import { HomeBodyComponent } from './home-body/home-body.component';
+import { ArtistComponent } from './artist/artist.component';
+import { ArtistBodyComponent } from './artist-body/artist-body.component';
+import { ArtistMenuComponent } from './artist-menu/artist-menu.component';
+import { ArtistResultComponent } from './artist-result/artist-result.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     HomeBodyComponent,
+    ArtistComponent,
+    ArtistBodyComponent,
+    ArtistMenuComponent,
+    ArtistResultComponent,
   ],
   imports: [
     BrowserModule,
