@@ -9,4 +9,46 @@
 .search-input{
     margin-left: 5%;
     width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.artist-text{
+    margin-left: 5%;
+}
+
+.request-button{
+    width: 25%;
+    margin-left: 37.5%;
+    margin-right: 37.5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: 10%;
+    font-size: 100%;
+    border-color: black;
+    border-style: solid;
+    border: 2px solid black;
+    text-align: center;
+}
+.request-button2{
+    width: 25%;
+    margin-left: 20%;
+    margin-top: 7%;
+    margin-bottom: 2%;
+    height: 10%;
+    font-size: 100%;
+    border-color: black;
+    border-style: solid;
+    border: 2px solid black;
+}
+.request-button3{
+    width: 25%;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-top: 7%;
+    margin-bottom: 2%;
+    height: 10%;
+    font-size: 100%;
+    border-color: black;
+    border-style: solid;
+    border: 2px solid black;
 }
