@@ -14,4 +14,10 @@ export class HomeBodyComponent implements OnInit {
   toArtistBody(){
     this.router.navigate(['/artistBody']);
   }
+  toSongBody(){
+    this.router.navigate(['/songBody']);
+  }
+  toAlbumBody(){
+    this.router.navigate(['/albumBody']);
+  }
 }

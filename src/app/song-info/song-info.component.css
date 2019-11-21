@@ -1,0 +1,9 @@
+.container{
+    height: 93%;
+    width: 100%;
+    
+    align-items: center;
+    background-color: purple;
+    font-weight: 600;
+    position:relative;
+}

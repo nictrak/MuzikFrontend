@@ -1,11 +1,10 @@
 .container{
-    left: 40%;
-    width: 60%;
+    width: 40%;
     height: 100%;
-    background-color : white;
+    background-color :white;
     color: black;
     font-weight: 600;
-    position: relative; 
+    position: absolute; 
 }
 .search-input{
     margin-left: 5%;
@@ -13,7 +12,7 @@
     margin-top: 2%;
     margin-bottom: 2%;
 }
-.head-text{
+.artist-text{
     margin-left: 5%;
 }
 
@@ -23,7 +22,7 @@
     margin-right: 37.5%;
     margin-top: 2%;
     margin-bottom: 2%;
-    height: 15%;
+    height: 10%;
     font-size: 100%;
     border-color: black;
     border-style: solid;
